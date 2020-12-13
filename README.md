@@ -14,12 +14,16 @@ Cheryl Xu, Front-end developer
 About
 This is Team 17’s web app created as part of an undergraduate term project for the MIE350 course at the University of Toronto. It was modelled after the Sample Web Application template provided by the MIE350 teaching team.
 Team 17 consisted of the following members, with a brief description of their roles:
+
 Shahir Aftab
 Project Manager - Planning and overseeing the project. Assigned roles, facilitated team meetings, addressed issues, and the medium between course instructors and project team. Assisted in areas which required the most attention as the project progressed to ensure completion. 
+
 Grame Aylward
 Back-End Lead - Planning the and contributing to the back end data flow, designed and implemented car recommendation algorithm. Design and colour scheme of web application.
+
 Dennis Kiprono
 Back-end developer - Contribute in building the back-end recommendation algorithm
+
 Rishik Kumar
 Front-end Lead/ Web Arcitect - did everything and debugged every line of broken code we sent his way
 
